@@ -5,7 +5,7 @@ A Machine Learning project that predicts housing prices using housing dataset fe
 ## 📂 Project Structure
 
 ```
-housing_project_test_dataset/
+housing_price_prediction/
 │
 ├── housing_price_prediction.ipynb      # Main Jupyter Notebook containing the complete workflow
 ├── README.md                           # Project documentation
