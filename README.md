@@ -1,17 +1,17 @@
-# Housing Price Prediction
+# Real-Estate-Price-Prediction-Model
 
 A Machine Learning project that predicts housing prices using housing dataset features. This project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation using Python and Jupyter Notebook.
 
 ## 📂 Project Structure
 
 ```
-housing_price_prediction/
+Real-Estate-Price-Prediction-Model/
 │
-├── housing_price_prediction.ipynb      # Main Jupyter Notebook containing the complete workflow
+├── real_estate_price_prediction.ipynb      # Main Jupyter Notebook containing the complete workflow
 ├── README.md                           # Project documentation
-├── housing_data_description.txt        # Description of dataset attributes and features
-├── housing_project_train_data.csv      # Training dataset
-└── housing_project_test_data.csv       # Testing dataset
+├── real_estate_data_description.txt        # Description of dataset attributes and features
+├── real_estate_project_train_data.csv      # Training dataset
+└── real_estate_project_test_data.csv       # Testing dataset
 ```
 
 ---
@@ -24,10 +24,10 @@ The project uses a housing dataset containing various property-related features 
 
 | File | Description |
 |--------|-------------|
-| `housing_project_train_data.csv` | Training dataset used to train machine learning models |
-| `housing_project_test_data.csv` | Test dataset used for predictions and evaluation |
-| `housing_data_description.txt` | Detailed description of all dataset features |
-| `Housing_Price_Prediction.ipynb` | Notebook containing data preprocessing, model building, and evaluation |
+| `real_estate_project_train_data.csv` | Training dataset used to train machine learning models |
+| `real_estate_project_test_data.csv` | Test dataset used for predictions and evaluation |
+| `real_estate_data_description.txt` | Detailed description of all dataset features |
+| `real_estate_price_prediction.ipynb` | Notebook containing data preprocessing, model building, and evaluation |
 
 ---
 
@@ -84,7 +84,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/housing_project_test_dataset.git
-cd housing_project_test_dataset
+cd real_estate_project_test_dataset
 ```
 
 Install required dependencies:
@@ -112,7 +112,7 @@ jupyter notebook
 Open:
 
 ```text
-Housing_Price_Prediction.ipynb
+real_estate_price_prediction.ipynb
 ```
 
 Run all cells to reproduce the complete workflow.
@@ -151,4 +151,4 @@ Contributions are welcome.
 
 **Divya Shah**
 
-Housing Price Prediction using Machine Learning and Python.
+Real Estate Price Prediction using Machine Learning and Python.
